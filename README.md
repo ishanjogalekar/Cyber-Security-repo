@@ -1,8 +1,9 @@
 # Cyber-Security-Notes
 This Repository contains cyber security related notes.
 Using it illegal way is strictly prohibited.
+You can download .pdf notes also.
 There are some useful links in notes also please check them also follow my github profile.
-NOTE :- All online notes links available in URL.txt file.
+
 
 ## Link For Notes :-
 1. **Basics of cyber security & ethical hacking** :- (https://www.notion.so/Basics-Of-Hacking-e9a60626f0cd4b44a2f98ffa7eb4899c)
