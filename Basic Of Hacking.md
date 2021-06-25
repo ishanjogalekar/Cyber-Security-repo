@@ -131,7 +131,7 @@ IoT devices hacking to create data breaches.
 System hacking, changing OS preferences.
 Hacking emails on other social media platforms.
 
-##💻Mainly used OS for Hacking :
+## 💻Mainly used OS for Hacking :
 
 👌 **Kali Linux**: Debian based, many tools, most used
                                  Link: https://www.kali.org/
