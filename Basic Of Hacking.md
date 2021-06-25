@@ -140,7 +140,8 @@ Hacking emails on other social media platforms.
 Mostly these OS installed in a virtual environment
 🔷 **Virtual box**: Most used, advance, free
                                      Link: https://www.virtualbox.org/
-🕶  **VMware**: Commonly used with MAC PC, mostly free but some features paid
+
+🕶  **VMware**:Commonly used with MAC PC, mostly free but some features paid
                                      Link: https://www.vmware.com/in.html
 
 
