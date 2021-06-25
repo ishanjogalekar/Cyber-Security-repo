@@ -70,7 +70,7 @@ Hacker needs to find only 1 flow or error, loophole.
 
 ## 🎞Terminology:-
 
-1.**Vulnerability** :
+1. **Vulnerability** :
 A security flow that attacker can exploit to gain access into network, system or application.
 
 2. **Exploit** :
