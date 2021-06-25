@@ -22,7 +22,9 @@ unauthorized usage of information especially from aspects of technology. It reli
 Cybersecurity deals specifically with defending, security system & network against cyber attacks.
 In world cybersecurity, the term usually associated with obtaining unauthorized access to the remote or local system.
 Cybersecurity is divided into two main parts :
+
 🟦Defensive side:- Blue team
+
 🟥Offensive side:- Red team
 
 ## Responsibility Distributions :
