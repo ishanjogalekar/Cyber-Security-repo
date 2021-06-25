@@ -1,8 +1,15 @@
 # Cyber-Security-Notes
 This Repository contains cyber security related notes.
+
 Using it illegal way is strictly prohibited.
-You can download .pdf notes also.
-There are some useful links in notes also please check them also follow my github profile.
+
+You can check PDF notes also. Links are given bellow. 
+
+There are some useful links in notes also please check them also 
+
+Follow my Github profile.
+
+Linkedin :https://www.linkedin.com/in/ishan-jogalekar-1708421a5/
 
 
 ## Link For PDF Notes :-
