@@ -2,11 +2,11 @@
 
 ## Basic structure :
 
-```
+
 There are three main units in PC, Input → Processor → Output Input and output devices are peripherals.
 The processor is mainly ALU ( Arithmetic Logic Unit). The processor also consists of some memory Primary memory, apart from that
 there are secondary memory units also. All components are placed over the motherboard which is the main chip and components are connected to each other with BUS (wires).
-```
+
 ![alt text](https://i.ibb.co/F6879Xm/Presentation1.jpg)
 ### ALU :
 
