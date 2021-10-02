@@ -102,13 +102,13 @@ For malware that uses social engineering that tricks users to believe their comp
 Despite modern improvements in security, attack statistics keep growing.
 
 
-300 + attacks in the US in 2015  16.
+300 + attacks in the US in 2015-16.
 About 1 link in every 13 URLs on the web is a malicious link.
 Recent attacks :
 1. New vulnerabilities on both old & new software.
 2. There is usually a time window between when a vulnerability is discovered until getting patched.
 3. 1 / 3 computers facing some security issues even though vulnerability is patched before.
-4. Facebook data leak about 533 million accounts.
+4. Facebook data leak about 533 million accounts. <br/>
 https://haveibeenpwned.com/:  Website to check your data is leaked publicly or not.
 
 ## 📀 Data Breaches:-
