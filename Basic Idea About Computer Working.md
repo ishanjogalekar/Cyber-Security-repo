@@ -1,6 +1,6 @@
 ## Basic Idea About Computer Working
 
-## Basic structure :
+## ⚙ Basic structure :
 
 
 There are three main units in PC, Input → Processor → Output Input and output devices are peripherals.
@@ -58,7 +58,7 @@ Piece of software capable of virtualizing hardware components & maintaining the 
 Bad idea to give more resources to the hypervisor from the host machine. Give recommended only.
 **Guest machine**: Virtual environment installed in the hypervisor. Mostly another OS.
 
-## Types Of Hypervisors:-
+##🎱 Types Of Hypervisors:-
 
 1. Type 2 :
 Application hypervisors run on top of the installed OS & host the virtual environment on top of the host kernel. Best for usage and also it is very efficient.
