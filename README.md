@@ -1,4 +1,4 @@
-# 💻keyCyber-Security-Notes
+# 💻Cyber-Security-Notes
 This Repository contains cyber security related notes.<br>
 Using it illegal way is strictly prohibited.<br>
 You can check Notion notes also. Links are given bellow.<br>
