@@ -1,4 +1,4 @@
-# 💻Cyber-Security-Notes
+# 💻Cyber-Security-Repository
 This Repository contains cyber security related notes.<br>
 Using it illegal way is strictly prohibited.<br>
 You can check Notion notes also. Links are given bellow.<br>
@@ -25,7 +25,4 @@ You can check Notion notes also. Links are given bellow.<br>
 3. [**Installation of Kali**](https://ishanjogalekar.notion.site/Installation-Of-Kali-Linux-2885d76fff09441dbadaa88681079dde) 
 
 ---
-## 💢Github Markdown Notes :
-1. [**Cyber security and Ethical Hacking Introduction**](https://github.com/ishanjogalekar/Cyber-Security-Notes/blob/main/Basic%20Of%20Hacking.md)
-2. [**Computer Basics and working**](https://github.com/ishanjogalekar/Cyber-Security-Notes/blob/main/Basic%20Idea%20About%20Computer%20Working.md)
-3. [**Installation of KALI**](https://github.com/ishanjogalekar/Cyber-Security-Notes/blob/main/Installation%20of%20Kali.md)
+
