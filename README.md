@@ -4,7 +4,7 @@
 **Python tool to generate fake data**<br>
 **Using python 3.8+ recommended**<br>
 **Note** - *This tool is for educational purposes only*<br>
-
+<P><img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></p>
 
 ---
 ### Using tool 
@@ -38,4 +38,6 @@
 ## Demo of tool 
 <img alt="demo" src="https://github.com/ishanjogalekar/Cyber-Security-repo/blob/main/Images/Hoaxesd%20Data%20python%20tool.gif" width="700"/>
 
+*based on faker package in python*<br>
+[Faker documentation](https://faker.readthedocs.io/en/master/)
 
