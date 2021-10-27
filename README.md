@@ -26,3 +26,7 @@ You can check Notion notes also. Links are given bellow.<br>
 
 ---
 
+## Ethical Hacking Tools :-
+#### Check ethical hacking tools in sub-branches of this repo
+*For education purpose only*<br>
+1. [**HOAXES-D** - Fake data generator](https://github.com/ishanjogalekar/Cyber-Security-repo/tree/HOAXES-D)
