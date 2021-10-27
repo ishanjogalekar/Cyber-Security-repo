@@ -14,9 +14,8 @@
         
        sudo git clone https://github.com/ishanjogalekar/Cyber-Security-repo.git
 
-2. Other sytems (MAC / Windows) :
- 
-      -> *Download zip file*
+2. Other sytems (MAC / Windows) :<br>
+       [**Download zip file**](https://github.com/ishanjogalekar/Cyber-Security-repo/releases/tag/HOAXES-D-v1.0.0)
 
 **Installing all requirements -**
 1. Linux systems :
