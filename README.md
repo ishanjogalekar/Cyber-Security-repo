@@ -12,7 +12,7 @@
 **Get the tool -**
 1. Linux systems :
         
-       sudo git clone 
+       sudo git clone https://github.com/ishanjogalekar/Cyber-Security-repo.git
 
 2. Other sytems (MAC / Windows) :
  
